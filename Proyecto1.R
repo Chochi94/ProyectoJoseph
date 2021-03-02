@@ -27,3 +27,6 @@ legend("topleft",
        legend = c("1","2","3","4","5"), 
        pch = c(21,25,23,20 ), 
        col = c("gray","blue","green3","red","yellow"))
+
+
+hola josue 
