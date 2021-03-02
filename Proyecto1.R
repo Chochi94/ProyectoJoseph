@@ -29,4 +29,3 @@ legend("topleft",
        col = c("gray","blue","green3","red","yellow"))
 
 
-hola josue 
